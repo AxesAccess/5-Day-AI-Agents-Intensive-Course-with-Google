@@ -208,3 +208,15 @@ __marimo__/
 
 # Visual Studio Code
 *.code-workspace
+
+# Locally deployed sample agents
+home_automation_agent
+research-agent
+sample_agent_tmp*
+sample_agent
+
+# Locally installed Node.js
+.local_node
+
+
+
